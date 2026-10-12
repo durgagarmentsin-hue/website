@@ -1,0 +1,6 @@
+{
+  "name": "Durga Garments",
+  "description": "Durga Garments in Secunderabad - Everyday elegance, festive ethnic wear, school fancy dress costumes, and tailored clothing collections for men, women, and kids.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
